@@ -1,4 +1,4 @@
 ﻿  HWTwoFive.cpp
-c:\work_work\minec++\somestuff\hometasktwofive\hwtwofive.cpp(20): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\work_work\minec++\somestuff\hometasktwofive\hwtwofive.cpp(21): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
   HomeTaskTwoFive.vcxproj -> C:\Work_work\MINEC++\SomeStuff\x64\Debug\HomeTaskTwoFive.exe
   HomeTaskTwoFive.vcxproj -> C:\Work_work\MINEC++\SomeStuff\x64\Debug\HomeTaskTwoFive.pdb (Partial PDB)
