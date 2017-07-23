@@ -22,7 +22,7 @@
     <ProjectGuid>{2D5AC7BB-C977-41A7-8E93-92FBCE0C5F97}</ProjectGuid>
     <RootNamespace>convert</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>Secondconvert</ProjectName>
+    <ProjectName>lesson_2_convert</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

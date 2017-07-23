@@ -22,7 +22,7 @@
     <ProjectGuid>{D38C96B0-F744-489F-8080-BDFA179B2EF1}</ProjectGuid>
     <RootNamespace>oufrune</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>Secondoufrune</ProjectName>
+    <ProjectName>lesson_2_outfrune</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -22,7 +22,7 @@
     <ProjectGuid>{1F57DCD1-3129-45EF-975B-0968CF1D972E}</ProjectGuid>
     <RootNamespace>Carrots</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>SecondCarrots</ProjectName>
+    <ProjectName>lesson_2_carrot</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

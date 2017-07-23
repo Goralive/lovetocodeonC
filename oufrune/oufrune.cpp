@@ -1,6 +1,6 @@
 ﻿// определение собственной функции
 #include <iostream>
-void simon (int);
+
 using namespace std;
 
 int main()

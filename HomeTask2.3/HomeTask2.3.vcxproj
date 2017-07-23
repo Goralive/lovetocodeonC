@@ -25,7 +25,7 @@
     <ProjectGuid>{6C4F288A-A356-4ECA-95A6-FF78C55BBD22}</ProjectGuid>
     <RootNamespace>HomeTask23</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>HomeTaskTwoThree</ProjectName>
+    <ProjectName>Home_task_2.3</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

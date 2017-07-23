@@ -25,7 +25,7 @@
     <ProjectGuid>{06A33AC4-D233-47F0-9342-2FC36166798D}</ProjectGuid>
     <RootNamespace>sqrt</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>Secondsqrt</ProjectName>
+    <ProjectName>lesson_2_sqrt</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
