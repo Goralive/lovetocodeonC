@@ -1,15 +1,16 @@
 //p.84
 #include <iostream>
-using namespace std;
+
 double calculation (double);
 int main ()
 {
 	double years;
-	cout << "Enter the number of light years: ";
-	cin >> years;
+	std::cout << "Enter the number of light years: ";
+	std::cin >> years;
 	double astranomical = calculation(years);
-	cout << years << " light years = " << astranomical << " astronomical units" << endl;
-	system("pause");
+	std::cout << years << " light years = " << astranomical << " astronomical units" << std::endl;
+	std::cin.get();
+	std::cin.get();
 }
 
 double calculation (double c) 
