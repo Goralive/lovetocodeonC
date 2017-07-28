@@ -3,19 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_2_myfirst", "lesson_2_myfirst\SomeStuff.vcxproj", "{1A16C3B7-F847-432A-866A-F5CECC97E7CA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_2_First_code", "lesson_2_myfirst\SomeStuff.vcxproj", "{1A16C3B7-F847-432A-866A-F5CECC97E7CA}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_2_carrot", "lesson_2_carrot\Carrots.vcxproj", "{1F57DCD1-3129-45EF-975B-0968CF1D972E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_2_getinfo", "lesson_2_getinfo\getinfo.vcxproj", "{31E1B632-AD42-4B1F-B62A-CB35C13380BE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_2_get_info", "lesson_2_getinfo\getinfo.vcxproj", "{31E1B632-AD42-4B1F-B62A-CB35C13380BE}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_2_sqrt", "lesson_2_sqrt\sqrt.vcxproj", "{06A33AC4-D233-47F0-9342-2FC36166798D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_2_oufrune", "lesson_2_oufrune\oufrune.vcxproj", "{D38C96B0-F744-489F-8080-BDFA179B2EF1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_2_outfrune", "lesson_2_oufrune\oufrune.vcxproj", "{D38C96B0-F744-489F-8080-BDFA179B2EF1}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_2_convert", "lesson_2_convert\convert.vcxproj", "{2D5AC7BB-C977-41A7-8E93-92FBCE0C5F97}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Home_task_2.1", "Home_task_2.1\hometask2.1.vcxproj", "{75F71E0E-F30A-4FEE-ADD9-A38FB7509029}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Home_task_2.2", "Home_task_2.2\HomeTaskTwoTwo.vcxproj", "{67954430-A3C7-438A-BAF6-B86EF839F28B}"
 EndProject
@@ -28,6 +26,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Home_task_2.6", "Home_task_2.6\HomeTaskTwoSix.vcxproj", "{FD1540B7-B97F-41D8-9C4B-B3B8C620EB93}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Home_task_2.7", "Home_task_2.7\HomeTaskTwoSeven.vcxproj", "{11795901-278B-4C5D-A06B-B8942AE1650E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Home_task_2.1", "Home_task_2.1\Home_task_2.1.vcxproj", "{5A375BCD-8C61-45F0-A321-970025FB8599}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -85,14 +85,6 @@ Global
 		{2D5AC7BB-C977-41A7-8E93-92FBCE0C5F97}.Release|x64.Build.0 = Release|x64
 		{2D5AC7BB-C977-41A7-8E93-92FBCE0C5F97}.Release|x86.ActiveCfg = Release|Win32
 		{2D5AC7BB-C977-41A7-8E93-92FBCE0C5F97}.Release|x86.Build.0 = Release|Win32
-		{75F71E0E-F30A-4FEE-ADD9-A38FB7509029}.Debug|x64.ActiveCfg = Debug|x64
-		{75F71E0E-F30A-4FEE-ADD9-A38FB7509029}.Debug|x64.Build.0 = Debug|x64
-		{75F71E0E-F30A-4FEE-ADD9-A38FB7509029}.Debug|x86.ActiveCfg = Debug|Win32
-		{75F71E0E-F30A-4FEE-ADD9-A38FB7509029}.Debug|x86.Build.0 = Debug|Win32
-		{75F71E0E-F30A-4FEE-ADD9-A38FB7509029}.Release|x64.ActiveCfg = Release|x64
-		{75F71E0E-F30A-4FEE-ADD9-A38FB7509029}.Release|x64.Build.0 = Release|x64
-		{75F71E0E-F30A-4FEE-ADD9-A38FB7509029}.Release|x86.ActiveCfg = Release|Win32
-		{75F71E0E-F30A-4FEE-ADD9-A38FB7509029}.Release|x86.Build.0 = Release|Win32
 		{67954430-A3C7-438A-BAF6-B86EF839F28B}.Debug|x64.ActiveCfg = Debug|x64
 		{67954430-A3C7-438A-BAF6-B86EF839F28B}.Debug|x64.Build.0 = Debug|x64
 		{67954430-A3C7-438A-BAF6-B86EF839F28B}.Debug|x86.ActiveCfg = Debug|Win32
@@ -141,6 +133,14 @@ Global
 		{11795901-278B-4C5D-A06B-B8942AE1650E}.Release|x64.Build.0 = Release|x64
 		{11795901-278B-4C5D-A06B-B8942AE1650E}.Release|x86.ActiveCfg = Release|Win32
 		{11795901-278B-4C5D-A06B-B8942AE1650E}.Release|x86.Build.0 = Release|Win32
+		{5A375BCD-8C61-45F0-A321-970025FB8599}.Debug|x64.ActiveCfg = Debug|x64
+		{5A375BCD-8C61-45F0-A321-970025FB8599}.Debug|x64.Build.0 = Debug|x64
+		{5A375BCD-8C61-45F0-A321-970025FB8599}.Debug|x86.ActiveCfg = Debug|Win32
+		{5A375BCD-8C61-45F0-A321-970025FB8599}.Debug|x86.Build.0 = Debug|Win32
+		{5A375BCD-8C61-45F0-A321-970025FB8599}.Release|x64.ActiveCfg = Release|x64
+		{5A375BCD-8C61-45F0-A321-970025FB8599}.Release|x64.Build.0 = Release|x64
+		{5A375BCD-8C61-45F0-A321-970025FB8599}.Release|x86.ActiveCfg = Release|Win32
+		{5A375BCD-8C61-45F0-A321-970025FB8599}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -19,10 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{75F71E0E-F30A-4FEE-ADD9-A38FB7509029}</ProjectGuid>
-    <RootNamespace>hometask21</RootNamespace>
+    <ProjectGuid>{5A375BCD-8C61-45F0-A321-970025FB8599}</ProjectGuid>
+    <RootNamespace>Home_task_21</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>Home_task_2.1</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -111,7 +110,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <None Include="home_task_2.1.cpp" />
+    <ClCompile Include="Home_task_2.1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
