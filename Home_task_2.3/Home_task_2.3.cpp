@@ -2,7 +2,7 @@
 #include <iostream>
 void simon(int);
 void corben(int);
-using namespace std;
+
 int main()
 {
 	
@@ -17,10 +17,10 @@ int main()
 
 void simon(int n)
 {
-	cout << "Three blind mice" << endl ;
+	std::cout << "Three blind mice" << std::endl ;
 }
 
 void corben(int b)
 {
-	cout << "See how they run" << endl;
+	std::cout << "See how they run" << std::endl;
 }
