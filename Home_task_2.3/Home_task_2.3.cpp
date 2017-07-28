@@ -11,7 +11,9 @@ int main()
 	corben(2);
 	corben(2);
 	
-	system("pause");
+	std::cin.get();
+	std::cin.get();
+
 	return 0;
 }
 
