@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_3_chartype", "lesson
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_3_morechar", "lesson_3_morechar\lesson_3_morechar.vcxproj", "{79D61BFD-9D0F-4A32-8F44-5824D3EC289A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_3_bondini", "lesson_3_bondini\lesson_3_bondini.vcxproj", "{F13A4239-0AE4-4F0B-AB58-0C19C3548E3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -201,6 +203,14 @@ Global
 		{79D61BFD-9D0F-4A32-8F44-5824D3EC289A}.Release|x64.Build.0 = Release|x64
 		{79D61BFD-9D0F-4A32-8F44-5824D3EC289A}.Release|x86.ActiveCfg = Release|Win32
 		{79D61BFD-9D0F-4A32-8F44-5824D3EC289A}.Release|x86.Build.0 = Release|Win32
+		{F13A4239-0AE4-4F0B-AB58-0C19C3548E3C}.Debug|x64.ActiveCfg = Debug|x64
+		{F13A4239-0AE4-4F0B-AB58-0C19C3548E3C}.Debug|x64.Build.0 = Debug|x64
+		{F13A4239-0AE4-4F0B-AB58-0C19C3548E3C}.Debug|x86.ActiveCfg = Debug|Win32
+		{F13A4239-0AE4-4F0B-AB58-0C19C3548E3C}.Debug|x86.Build.0 = Debug|Win32
+		{F13A4239-0AE4-4F0B-AB58-0C19C3548E3C}.Release|x64.ActiveCfg = Release|x64
+		{F13A4239-0AE4-4F0B-AB58-0C19C3548E3C}.Release|x64.Build.0 = Release|x64
+		{F13A4239-0AE4-4F0B-AB58-0C19C3548E3C}.Release|x86.ActiveCfg = Release|Win32
+		{F13A4239-0AE4-4F0B-AB58-0C19C3548E3C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
