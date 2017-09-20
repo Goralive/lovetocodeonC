@@ -1,0 +1,4 @@
+﻿  floatnum.cpp
+d:\ubineedstuf\tetra\minec++\somestuff\lovetocodeonc\lesson_3_floatnum\floatnum.cpp(5): warning C4305: 'initializing': truncation from 'double' to 'float'
+  lesson_3_floatnum.vcxproj -> D:\UbiNeedStuf\Tetra\MINEC++\SomeStuff\lovetocodeonC\x64\Debug\lesson_3_floatnum.exe
+  lesson_3_floatnum.vcxproj -> D:\UbiNeedStuf\Tetra\MINEC++\SomeStuff\lovetocodeonC\x64\Debug\lesson_3_floatnum.pdb (Partial PDB)
