@@ -1,4 +1,4 @@
-﻿// потеря точности при работе с float
+﻿// Lost accuracy in work with float
 #include <iostream>
 int main()
 {

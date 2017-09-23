@@ -4,8 +4,8 @@ int main()
 	
 	char ch;
 	std::cout << "Please enter the character: " << std::endl;
-	std::cin >> ch; // Присваевает ch код ASCII симовола который введем
-	int i = ch;		// переводим в его в инт
+	std::cin >> ch; 
+	int i = ch;		
 	std::cout << "Here the ASCII code for " << ch << " is " << i << std::endl;
 
 	std::cout << "Adding one to the character code: " << std::endl;

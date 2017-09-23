@@ -1,6 +1,6 @@
 #include <iostream>
-#define ZERO 0 // создает символ ZERO для значения 0
-#include <climits> // определяет INT_MAX как найбольшее значение int
+#define ZERO 0 
+#include <climits> 
 int main()
 {
 	short sam = SHRT_MAX;

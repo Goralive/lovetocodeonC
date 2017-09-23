@@ -1,17 +1,17 @@
-﻿//Ввод и вывод инфы
+﻿//Data load and data out (C++ input, C++ output)
 #include <iostream>
 
 int main () 
 {
-	using namespace std;
+	//using namespace std;
 	int carrots;
-	cout << "How many carrots do you have?" << endl;
-	cin >> carrots;
-	cout << "Here are two more " ;
+	std::cout << "How many carrots do you have?\n" ;
+	std::cin >> carrots;
+	std::cout << "Here are two more " ;
 	carrots = carrots + 2;
-	cout << "Now you have " << carrots << " carrots." << endl;
-	cin.get();
-	cin.get();
+	std::cout << "Now you have " << carrots << " carrots.\n" ;
+	std::cin.get();
+	std::cin.get();
 	
 	
 	return 0;

@@ -47,6 +47,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_3_floatnum", "lesson
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_3_fltadd", "lesson_3_fltadd\lesson_3_fltadd.vcxproj", "{666CEF6A-AAAE-4211-BD5C-D44E69EC08D0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_3_arith", "lesson_3_arith\lesson_3_arith.vcxproj", "{207166C1-1385-49CA-9C20-70E12AF45FC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -231,6 +233,14 @@ Global
 		{666CEF6A-AAAE-4211-BD5C-D44E69EC08D0}.Release|x64.Build.0 = Release|x64
 		{666CEF6A-AAAE-4211-BD5C-D44E69EC08D0}.Release|x86.ActiveCfg = Release|Win32
 		{666CEF6A-AAAE-4211-BD5C-D44E69EC08D0}.Release|x86.Build.0 = Release|Win32
+		{207166C1-1385-49CA-9C20-70E12AF45FC5}.Debug|x64.ActiveCfg = Debug|x64
+		{207166C1-1385-49CA-9C20-70E12AF45FC5}.Debug|x64.Build.0 = Debug|x64
+		{207166C1-1385-49CA-9C20-70E12AF45FC5}.Debug|x86.ActiveCfg = Debug|Win32
+		{207166C1-1385-49CA-9C20-70E12AF45FC5}.Debug|x86.Build.0 = Debug|Win32
+		{207166C1-1385-49CA-9C20-70E12AF45FC5}.Release|x64.ActiveCfg = Release|x64
+		{207166C1-1385-49CA-9C20-70E12AF45FC5}.Release|x64.Build.0 = Release|x64
+		{207166C1-1385-49CA-9C20-70E12AF45FC5}.Release|x86.ActiveCfg = Release|Win32
+		{207166C1-1385-49CA-9C20-70E12AF45FC5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

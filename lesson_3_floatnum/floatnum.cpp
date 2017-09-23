@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 int main()
 {
-	std::cout.setf(std::ios_base::fixed, std::ios_base::floatfield); // фиксированая точка
+	std::cout.setf(std::ios_base::fixed, std::ios_base::floatfield); //  fixed formatting 
 	float tub = 10.0 / 3.0;
 	double mint = 10.0 / 3.0;
 	const float million = 1.0e6;

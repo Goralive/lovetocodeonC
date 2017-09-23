@@ -2,7 +2,7 @@
 
 int main ()  
 {
-	using namespace std;
+	
 
 	int carrots;
 	
@@ -11,12 +11,14 @@ int main ()
 	carrots =  25;
 	
 	
-	cout << "I have ";
-	cout << carrots;
-	cout << " carrots";
-	cout << endl;
+	std::cout << "I have ";
+	std::cout << carrots;
+	std::cout << " carrots";
+	std::cout << std::endl;
 	carrots = carrots - 1;
-	cout << "Crunch, crunch. Now I have " << carrots << " carrots" << endl;
+	std::cout << "Crunch, crunch. Now I have " << carrots << " carrots\n" ;
+
+	std::cin.get();
 	
 	return 0;
 	}
