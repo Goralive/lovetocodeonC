@@ -22,6 +22,7 @@
     <ProjectGuid>{207166C1-1385-49CA-9C20-70E12AF45FC5}</ProjectGuid>
     <RootNamespace>lesson_3_arith</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <ProjectName>lesson_3.10_arith</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

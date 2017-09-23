@@ -3,7 +3,7 @@
 #include <iostream>
 int main()
 {
-	float hats, heads;
+	double hats, heads;
 
 	std::cout.setf(std::ios_base::fixed, std::ios_base::floatfield); // For display small nubmers in fixed formatting 
 	
