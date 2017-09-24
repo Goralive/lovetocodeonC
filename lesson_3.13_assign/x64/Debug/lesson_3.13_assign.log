@@ -1,0 +1,5 @@
+﻿  assign.cpp
+d:\ubineedstuf\tetra\minec++\somestuff\lovetocodeonc\lesson_3.13_assign\assign.cpp(7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\ubineedstuf\tetra\minec++\somestuff\lovetocodeonc\lesson_3.13_assign\assign.cpp(8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  lesson_3.13_assign.vcxproj -> D:\UbiNeedStuf\Tetra\MINEC++\SomeStuff\lovetocodeonC\x64\Debug\lesson_3.13_assign.exe
+  lesson_3.13_assign.vcxproj -> D:\UbiNeedStuf\Tetra\MINEC++\SomeStuff\lovetocodeonC\x64\Debug\lesson_3.13_assign.pdb (Partial PDB)
