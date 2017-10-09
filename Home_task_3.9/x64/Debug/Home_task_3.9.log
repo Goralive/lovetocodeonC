@@ -1,0 +1,4 @@
+﻿  home_task_3.9.cpp
+d:\ubineedstuf\tetra\minec++\somestuff\lovetocodeonc\home_task_3.9\home_task_3.9.cpp(6): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Home_task_3.9.vcxproj -> D:\UbiNeedStuf\Tetra\MINEC++\SomeStuff\lovetocodeonC\x64\Debug\Home_task_3.9.exe
+  Home_task_3.9.vcxproj -> D:\UbiNeedStuf\Tetra\MINEC++\SomeStuff\lovetocodeonC\x64\Debug\Home_task_3.9.pdb (Partial PDB)
