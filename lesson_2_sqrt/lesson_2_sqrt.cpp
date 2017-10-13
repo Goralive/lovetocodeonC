@@ -3,15 +3,15 @@
 #include <cmath>
 int main()
 {
-	using namespace std;
+	//using namespace std;
 	
 	double area;
-	cout << "Enter the floor area, in the square feet, of your home: ";
-	cin >> area;
+	std::cout << "Enter the floor area, in the square feet, of your home: ";
+	std::cin >> area;
 	double side;
 	side = sqrt(area);
-	cout << "That's te equivalent of a square " << side << " feet to the side." << endl;
-	cout << "How fancinating!" << endl;
+	std::cout << "That's te equivalent of a square " << side << " feet to the side.\n" ;
+	std::cout << "How fancinating!\n";
 	
 	system("pause");
 	return 0;

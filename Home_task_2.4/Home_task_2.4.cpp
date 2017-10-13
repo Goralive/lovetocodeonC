@@ -2,12 +2,14 @@
 #include <iostream>
 int main()
 {
-	using namespace std;
+	
 	int age;
-	cout << "How old are you? Enter here: ";
-	cin >> age;
+	std::cout << "How old are you? Enter here: ";
+	std::cin >> age;
 	int mounth = age * 12;
-	cout << "Your age in mounth is " << mounth << endl;
-	system("pause");
+	std::cout << "Your age in mounth is " << mounth << std::endl;
+	std::cin.get();
+	std::cin.get();
+	
 	return 0;
 }

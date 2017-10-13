@@ -1,0 +1,4 @@
+﻿  typecast.cpp
+d:\ubineedstuf\tetra\minec++\somestuff\lovetocodeonc\lesson_3.14_typecast\typecast.cpp(9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  lesson_3.14_typecast.vcxproj -> D:\UbiNeedStuf\Tetra\MINEC++\SomeStuff\lovetocodeonC\x64\Debug\lesson_3.14_typecast.exe
+  lesson_3.14_typecast.vcxproj -> D:\UbiNeedStuf\Tetra\MINEC++\SomeStuff\lovetocodeonC\x64\Debug\lesson_3.14_typecast.pdb (Partial PDB)

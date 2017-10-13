@@ -1,22 +1,24 @@
-﻿// определение собственной функции
+﻿// definition of own function
 #include <iostream>
 
-using namespace std;
+//using namespace std;
 void simon(int); 
 
 int main()
 {
 	simon(3);
-	cout << "Pick an intenger: ";
+	std::cout << "Pick an intenger: ";
 	int count;
-	cin >> count;
+	std::cin >> count;
 	simon(count);
-	cout << "Done! " << endl;
-	system("pause");
+	std::cout << "Done!\n " ;
+	
+	std::cin.get();
+	//system("pause");
 	return 0;
 }
 
 void simon(int n)
 {
-	cout << "Simon says touch yours toes " << n << " times" << endl;
+	std::cout << "Simon says touch yours toes " << n << " times\n" ;
 }

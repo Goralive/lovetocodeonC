@@ -5,16 +5,17 @@ int farlong(int);
 int meter(int);
 int main()
 {	
-	using namespace std;
+	
 	int yard;
-	cout << "Enter the farlong for convert: ";
-	cin >> yard;
+	std::cout << "Enter the farlong for convert: ";
+	std::cin >> yard;
 	int meters = farlong(yard);
 	int meterios = meter(yard);
-	cout << "Was entered = " << yard << " fallong, ";
-	cout << "that is " << meters << " yards" << endl;
-	cout << "or " << meterios << " meters" << endl;
-	system("pause");
+	std::cout << "Was entered = " << yard << " fallong, ";
+	std::cout << "that is " << meters << " yards" << std::endl;
+	std::cout << "or " << meterios << " meters" << std::endl;
+	std::cin.get();
+	std::cin.get();
 	return 0;
 }
 

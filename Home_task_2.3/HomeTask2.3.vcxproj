@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HomeTaskTwoThree.cpp" />
+    <ClCompile Include="Home_task_2.3.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{6C4F288A-A356-4ECA-95A6-FF78C55BBD22}</ProjectGuid>

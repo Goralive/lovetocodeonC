@@ -1,16 +1,20 @@
-﻿// преобразования стоуны в фунты
+﻿// Transformation from stone to pounds
 #include <iostream>
 int stonestolb(int);
 int main()
 {
-	using namespace std;
+	//using namespace std;
 	int stone;
-	cout << "Enter the weight in stone: ";
-	cin >> stone;
+	std::cout << "Enter the weight in stone: ";
+	std::cin >> stone;
 	int pounds = stonestolb(stone);
-	cout << stone << " stone = ";
-	cout << pounds << " pounds. " << endl;
-	system("pause");
+	std::cout << stone << " stone = ";
+	std::cout << pounds << " pounds.\n ";
+	
+	std::cin.get();
+	std::cin.get();
+
+
 	return 0;
 	
 }

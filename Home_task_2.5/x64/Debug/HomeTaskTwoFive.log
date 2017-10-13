@@ -1,5 +1,5 @@
 ﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (HomeTaskTwoFive.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   Home_task_2.5.cpp
-d:\ubineedstuf\tetra\minec++\somestuff\lovetocodeonc\home_task_2.5\home_task_2.5.cpp(21): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-  HomeTaskTwoFive.vcxproj -> D:\UbiNeedStuf\Tetra\MINEC++\SomeStuff\lovetocodeonC\x64\Debug\Home_task_2.5.exe
-  HomeTaskTwoFive.vcxproj -> D:\UbiNeedStuf\Tetra\MINEC++\SomeStuff\lovetocodeonC\x64\Debug\Home_task_2.5.pdb (Partial PDB)
+c:\work\lovetocodeonc\home_task_2.5\home_task_2.5.cpp(23): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  HomeTaskTwoFive.vcxproj -> C:\Work\lovetocodeonC\x64\Debug\Home_task_2.5.exe
+  HomeTaskTwoFive.vcxproj -> C:\Work\lovetocodeonC\x64\Debug\Home_task_2.5.pdb (Partial PDB)

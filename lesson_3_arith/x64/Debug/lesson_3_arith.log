@@ -1,0 +1,3 @@
+﻿  arith.cpp
+d:\ubineedstuf\tetra\minec++\somestuff\lovetocodeonc\lesson_3_arith\arith.cpp(6): error C3531: 'hats': a symbol whose type contains 'auto' must have an initializer
+d:\ubineedstuf\tetra\minec++\somestuff\lovetocodeonc\lesson_3_arith\arith.cpp(6): error C3531: 'heads': a symbol whose type contains 'auto' must have an initializer
