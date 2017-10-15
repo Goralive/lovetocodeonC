@@ -3,12 +3,13 @@
 #include <iostream>
 int main()
 {
-	double heigh;
+	int heigh;
 	std::cout << "Enter your height in inches and you will get it in foot and inches:  \n";
 	std::cin >> heigh;
-	double feet = heigh / 12;
-	// listening 3.12
-	std::cout << "Here is the result: " << feet << " feet" ;
+	int feet = heigh / 12;
+	int inches = heigh % 12; // remainder of division
+	
+	std::cout << "Here is the result: " << feet << " feet " << inches << " inches" ;
 
 	std::cin.get();
 	std::cin.get();
