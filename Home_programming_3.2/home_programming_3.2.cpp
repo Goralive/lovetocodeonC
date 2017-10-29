@@ -1,6 +1,6 @@
-// p.129
-// Create small programme which asks your high in foot and inches and weight in pounds
-// Programme must calculate body mass index BMI
+/* p.129
+ Create small programme which asks your high in foot and inches and weight in pounds
+ Programme must calculate body mass index BMI*/
 
 #include <iostream>
 int main()
